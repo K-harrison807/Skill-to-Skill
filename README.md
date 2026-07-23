@@ -1,5 +1,7 @@
 # Campus SkillTrader 🎓💼
 
+We know most students like to say they are broke, why not trade skills??
+
 Campus SkillTrader is a desktop application built in Java that serves as a cashless, peer-to-peer matchmaking platform for university students. 
 
 The project solves a major campus pain point: **student financial stress**. Instead of spending money they don't have on services (like fixing a crashed laptop), students trade their skills. A student who can fix a computer might trade their time with a student who can offer mathematics tutoring or graphic design. By removing money from the equation, this app reduces financial strain on both students and their parents.
